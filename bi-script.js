@@ -1,4 +1,3 @@
-document.addEventListener("fontsReady", function() {
 pageFunctions.addFunction("gsapCreateEase", function () {
 // Register CustomEase plugin
 gsap.registerPlugin(CustomEase);
@@ -408,4 +407,3 @@ ScrollTrigger.create({
 
 
 pageFunctions.executeFunctions();
-});
