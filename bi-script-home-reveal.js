@@ -133,4 +133,4 @@
       tlHeader.play();
     } 
 
-  }, ['gsapCreateEase', 'splitType']);
+  }, ['gsapCreateEase', 'splitType'], 'font-loaded');
